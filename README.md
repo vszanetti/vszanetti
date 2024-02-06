@@ -21,6 +21,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="175" src="https://gcdnb.pbrd.co/images/EK9qy1qwjFNj.jpg?o=1"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -33,20 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="40" alt="hugo logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="40" alt="sketch logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="175" src="https://gcdnb.pbrd.co/images/EK9qy1qwjFNj.jpg?o=1"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22x2rkdrad4pv55xwhjp3t5ky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22x2rkdrad4pv55xwhjp3t5ky&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
