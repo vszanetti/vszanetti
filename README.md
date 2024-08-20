@@ -1,9 +1,20 @@
 
 # Ciao, raghe! 👋
 
-I'm Vitor Zanetti and I'm an engineering student from 🇧🇷.
-## 🔗 Links
-[![discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/229399168630784000)
-[![twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/ocaligvla)
-[![telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/vszanetti)
-[![medium](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge)](https://medium.com/@vszanetti)
+### Myself
+
+Long story short: Urbanophilic; craft beer, espresso and Twin Peaks enthusiast.
+
+- Engineering student with a diverse array of interests, including computers, architecture, cooking, languages, beer, reading, writing, LEGOs, collecting, music, movies, urban planning, baking, cats, and Star Wars.
+
+- Proud barriga-verde and mané; alvinegro do Estreito.
+
+- Poliglot; 🇧🇷🇺🇸🇮🇹🇫🇷
+
+### My machines
+
+I currently own an M1 laptop  and a desktop which is running on a triple boot: Sonoma, Fedora and Windows 11.
+
+## 🔗 Contact
+
+You can contact me at **contato@serrazanetti.xyz** or send me a message through GitHub.
