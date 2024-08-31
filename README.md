@@ -9,7 +9,7 @@ Long story short: Urbanophilic; craft beer, espresso and Twin Peaks enthusiast.
 
 - Proud barriga-verde and mané; alvinegro do Estreito.
 
-- Poliglot; 🇧🇷🇺🇸🇮🇹🇫🇷
+- Poliglot; 🇧🇷 🇺🇸 🇮🇹 🇫🇷
 
 ### My machines
 
