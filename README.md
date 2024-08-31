@@ -11,10 +11,6 @@ Long story short: Urbanophilic; craft beer, espresso and Twin Peaks enthusiast.
 
 - Poliglot; 🇧🇷 🇺🇸 🇮🇹 🇫🇷
 
-### My machines
-
-I currently own an M1 laptop  and a desktop which is running on a triple boot: Sonoma, Fedora and Windows 11.
-
 ***
 
 ## 🔗 Contact
