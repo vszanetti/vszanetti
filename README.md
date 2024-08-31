@@ -20,8 +20,3 @@ I currently own an M1 laptop  and a desktop which is running on a triple boot
 ## 🔗 Contact
 
 You can contact me at **contato@serrazanetti.xyz** or send me a message through GitHub.
-
-<script type="module" defer>
-  import { polyfillCountryFlagEmojis } from "https://cdn.skypack.dev/country-flag-emoji-polyfill";
-  polyfillCountryFlagEmojis();
-</script>
