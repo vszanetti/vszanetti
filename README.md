@@ -12,4 +12,4 @@ Long story short: Urbanophilic; craft beer, espresso and Twin Peaks enthusiast.
 
 ## 🔗 Contact
 
-You can contact me at **contato@serrazanetti.xyz** or send me a message through GitHub.
+You can contact me at **contact@serrazanetti.xyz** or send me a message through GitHub.
