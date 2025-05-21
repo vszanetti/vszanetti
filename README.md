@@ -2,7 +2,8 @@
 
 I’m an engineering student and technical writer passionate about Python development and crystal-clear documentation. I build projects for the web, data analysis, and automation—with a focus on clarity and simplicity.
 
-I’m fluent in English, Portuguese, and Italian, with some solid ground in French.
+I’m fluent in English, Portuguese, and Italian, with some solid ground in French
+
 ---
 
 ## 🔧 Skills
